@@ -19,7 +19,7 @@ I'm **Kamran Khan**, a Software Engineering student in my first semester. I am p
 ### 📫 How to reach me:
 - Connect with me on [LinkedIn](
 
-https://www.linkedin.com/in/kamran-khan-1665
+https://www.linkedin.com/in/kamran-khan-16654abc
 )
 - Follow my progress here on GitHub!
 
