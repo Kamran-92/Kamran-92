@@ -17,7 +17,10 @@ I'm **Kamran Khan**, a Software Engineering student in my first semester. I am p
 - Advanced Web Layouts (Flexbox & Grid)
 
 ### 📫 How to reach me:
-- Connect with me on [LinkedIn](YOUR_LINK_HERE)
+- Connect with me on [LinkedIn](
+
+https://www.linkedin.com/in/kamran-khan-1665
+)
 - Follow my progress here on GitHub!
 
 ---
